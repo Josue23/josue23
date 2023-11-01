@@ -7,6 +7,12 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Josue23&style=flat-square&color=blue" alt=""/>
 </div>
+
+<div>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
